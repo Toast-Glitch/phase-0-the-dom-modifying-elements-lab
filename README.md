@@ -54,7 +54,7 @@ Let's append `element` to `body` to start:
 
 ```js
 document.body.append(element);
-```
+``` 
 
 Now if you look at the Elements tab, you'll see our new (empty) `<div>` nested
 inside the `body` element. Let's give it some content:
